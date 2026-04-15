@@ -14,8 +14,9 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Personal Information',
-      home:  Pome(),
-      //home: ProfilePage(),
+      //home:  Pome(),
+      
+      home: ProfilePage(),
     );
   }
 }
