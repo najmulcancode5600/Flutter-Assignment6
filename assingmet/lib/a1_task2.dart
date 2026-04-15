@@ -41,7 +41,7 @@ class Pome extends StatelessWidget {
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 18,
-                  color: Colors.deepPurple,
+                  color: Colors.purple,
                   fontWeight: FontWeight.w600,
                 ),
               ),
@@ -54,7 +54,7 @@ class Pome extends StatelessWidget {
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 14,
-                  color: Colors.grey,
+                  color: Colors.white,
                   fontWeight: FontWeight.w400,
                 ),
               ),
