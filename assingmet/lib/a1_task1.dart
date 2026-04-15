@@ -54,7 +54,7 @@ class ProfilePage extends StatelessWidget {
              
               Row(
                 children: const [
-                  Icon(Icons.location_city, color: Colors.green),
+                  Icon(Icons.location_city, color: Colors.yellow),
                   SizedBox(width: 12),
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
